@@ -1,0 +1,13 @@
+h1 {
+	display:flex;	
+	justify-content:center;
+	font-family: 'Varela Round', sans-serif;
+	
+}
+h2{
+	font-family: 'Varela Round', sans-serif;
+}
+
+p{
+	font-family: 'Varela Round', sans-serif;
+}
